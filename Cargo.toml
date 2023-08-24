@@ -2,6 +2,14 @@
 name = "deta-rust-sdk"
 version = "0.1.0"
 edition = "2021"
+description = "Unofficial Deta Rust SDK"
+license = "MIT OR Apache-2.0"
+authors = ["Jorge Mayoral Álvarez <contact@yorch.dev>"]
+repository = "https://github.com/JorgeMayoral/ripnode"
+readme = "README.md"
+homepage = "https://github.com/JorgeMayoral/deta-rust-sdk"
+keywords = ["deta", "sdk"]
+categories = ["http-client"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
